@@ -58,5 +58,5 @@ The dataset and documentation are configured to simulate the precise operational
 
 ## 📬 Contact & Professional Network
 * **Developer:** Alaina Richardson  
-* **Professional Portfolio:** [View Full Google Sites Portfolio](https://google.com)  
-* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)  
+* **Professional Portfolio:** https://sites.google.com/view/alainarichardsondataprofile/sql
+* **LinkedIn:** linkedin.com/in/alaina-richardson-nccm-88271a1b6
